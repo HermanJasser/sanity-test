@@ -1,0 +1,32 @@
+.beer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cont{
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1{
+    width:400px;
+    margin: 30px auto;
+    text-align: center;
+    color: white;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 600;
+}
+
+.beer-title{
+    font-weight: 900;
+    color: #A1EC99;
+}
+
+body{
+    background-color: #4E2510;
+}
